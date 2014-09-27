@@ -10,3 +10,7 @@ p, ul {
 	font-size: 15px;
 	font-weight: bolder;
 }
+
+footer {
+	display: none;
+}
